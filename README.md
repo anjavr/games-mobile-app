@@ -74,36 +74,34 @@ Projekat je razvijen kao studentski projekat u okviru predmeta Mobilno računars
 
 ### Početni ekran
 
-![Početni ekran](screenshots/home-page.jpeg)
+<p align="center">
+  <img src="screenshots/home-page.jpeg" width="220" />
+</p>
 
-### Izbor igre
+### Izbor igre i opis
 
-![Izbor igre](screenshots/game-choice.jpeg)
+<p align="center">
+  <img src="screenshots/game-choice.jpeg" width="220" />
+  <img src="screenshots/game-rules.jpeg" width="220" />
+  <img src="screenshots/game-description.jpeg" width="220" />
+</p>
 
-### Opis igre
+### Igra memorije
 
-![Opis igre](screenshots/game-rules.jpeg)
-
-### Pravila igre
-
-![Pravila igre](screenshots/game-description.jpeg)
-
-### Levels igre memorija
-
-![Nivoi](screenshots/memory-game-levels.jpeg)
-
-### Igranje igre memorija
-
-![Igra](screenshots/memory-game.jpeg)
+<p align="center">
+  <img src="screenshots/memory-game-levels.jpeg" width="220" />
+  <img src="screenshots/memory-game.jpeg" width="220" />
+</p>
 
 ### Korisnička podešavanja
 
-![Korisnička podešavanja](screenshots/user-settings.jpeg)
+<p align="center">
+  <img src="screenshots/user-settings.jpeg" width="220" />
+  <img src="screenshots/language-theme-settings.jpeg" width="220" />
+</p>
 
 ### Rang lista
 
-![Rang lista](screenshots/ranking-list.jpeg)
-
-### Tema i jezik
-
-![Tema i jezik](screenshots/language-theme-settings.jpeg)
+<p align="center">
+  <img src="screenshots/ranking-list.jpeg" width="220" />
+</p>
